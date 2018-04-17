@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body{
+  /*backgroud-size: cover ;*/
+  background: url("../images/bg.jpg") no-repeat center;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
