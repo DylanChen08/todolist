@@ -16,3 +16,7 @@ npm run dev
 
 ```
 
+大概长这个样子
+
+![image] (https://github.com/EaseCy/todolist/src/assets/GIF.gif)
+
