@@ -1,6 +1,6 @@
 # todolist
 
-> A Vue.js project
+> 根据慕课网教程改编的todolist
 
 ## Build Setup
  node_modules等等文件夹里面东西太多，在上传git之前已经在.gitignore里忽略掉了 ，需要安装依赖：
