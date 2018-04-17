@@ -3,28 +3,16 @@
 > A Vue.js project
 
 ## Build Setup
-
+ node_modules等等文件夹里面东西太多，在上传git之前已经在.gitignore里忽略掉了 ，需要安装依赖：
 ``` bash
-# install dependencies
 npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+然后就是跑起来啦！
+
+``` bash
+
+npm run dev
+
+```
+
