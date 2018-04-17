@@ -16,7 +16,8 @@ npm run dev
 
 ```
 
-### 大概长这个样子 :
+### 大概长这个样子 :   
+<br/>
 
 ![](https://github.com/EaseCy/todolist/blob/master/src/assets/GIF.gif)
 
