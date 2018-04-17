@@ -18,5 +18,5 @@ npm run dev
 
 大概长这个样子
 
-![] (https://github.com/EaseCy/todolist/blob/master/src/assets/GIF.gif)
+![] (todolist/src/assets/GIF.gif)
 
