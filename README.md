@@ -16,7 +16,7 @@ npm run dev
 
 ```
 
-大概长这个样子
+### 大概长这个样子 :
 
-![] (todolist/src/assets/GIF.gif)
+![] (http://m.qpic.cn/psb?/V13K92o612CnOT/AgielB8UeWx9YvYqVWZCLsX1x902BCSPCEg3.axDcE0!/c/dFYBAAAAAAAA&bo=NQf2AwAAAAACB.Q!&rf=viewer_4)
 
